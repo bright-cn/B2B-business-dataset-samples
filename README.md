@@ -77,4 +77,4 @@
 
 ## 为学术研究人员和非政府组织提供免费访问爬取工具和数据集
 
-Bright Initiative 为全球领先的学术机构研究人员、NGO 和 NPO 提供免费访问 **[网页抓取API](https://bright.cn/products/web-scraper)** 和 **[现成数据集](https://bright.cn/products/datasets)** 的权限，用于促进环境和社会事业发展。您可以 **[点击这里](https://brightinitiative.cn)** 提交申请。
+Bright Initiative 为全球领先的学术机构研究人员、NGO 和 NPO 提供免费访问 **[网页抓取API](https://bright.cn/products/web-scraper)** 和 **[现成数据集](https://bright.cn/products/datasets)** 的权限，用于促进环境和社会事业发展。您可以 **[点击这里](https://brightinitiative.com)** 提交申请。
