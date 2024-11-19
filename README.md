@@ -2,7 +2,7 @@
 
 ## 一个包含多个 B2B 数据集样本的集合，每个数据集都包含超过 1,000 条记录。
 
-![B2B 数据集头部](https://github.com/luminati-io/B2B-business-dataset-samples/blob/main/b2b-datasets.PNG)
+![B2B 数据集头部](https://github.com/bright-cn/B2B-business-dataset-samples/blob/main/CN-GitHub-datasets.svg)
 
 这些业务数据集样本总计包含数千条记录，所有数据均通过 **Bright Data API** 提取。
 
@@ -77,4 +77,4 @@
 
 ## 为学术研究人员和非政府组织提供免费访问爬取工具和数据集
 
-Bright Initiative 为全球领先的学术机构研究人员、NGO 和 NPO 提供免费访问 **[Web Scraper APIs](https://bright.cn/products/web-scraper)** 和 **[现成数据集](https://bright.cn/products/datasets)** 的权限，用于促进环境和社会事业发展。您可以 **[点击这里](https://brightinitiative.cn)** 提交申请。
+Bright Initiative 为全球领先的学术机构研究人员、NGO 和 NPO 提供免费访问 **[网页抓取API](https://bright.cn/products/web-scraper)** 和 **[现成数据集](https://bright.cn/products/datasets)** 的权限，用于促进环境和社会事业发展。您可以 **[点击这里](https://brightinitiative.cn)** 提交申请。
